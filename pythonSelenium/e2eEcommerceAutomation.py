@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.service import Service
 
 chrome_option = webdriver.ChromeOptions()
 chrome_option.add_argument("--start-maximized")
-chrome_option.add_argument("Headless")
+# chrome_option.add_argument("Headless")
 
 service_obj = Service(r"F:\selenium_drivers\chromedriver-win64\chromedriver.exe")
 driver = webdriver.Chrome(service=service_obj, options=chrome_option )

@@ -1,0 +1,9 @@
+2025-01-17 01:34:53,871 :INFO : test_editProfile :rahul
+2025-01-17 01:34:53,872 :INFO : test_editProfile :rahulshettyacademy.com
+2025-01-17 01:35:49,750 :INFO : test_editProfile :rahul
+2025-01-17 01:35:49,750 :INFO : test_editProfile :rahulshettyacademy.com
+2025-01-17 01:35:49,754 :CRITICAL : pytestsdemo.test_logging :Critical issue
+2025-01-18 22:12:48,919 :INFO : test_editProfile :rahul
+2025-01-18 22:12:48,919 :INFO : test_editProfile :rahulshettyacademy.com
+2025-01-18 22:12:58,160 :INFO : test_editProfile :rahul
+2025-01-18 22:12:58,161 :INFO : test_editProfile :rahulshettyacademy.com
